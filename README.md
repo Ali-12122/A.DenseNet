@@ -1,2 +1,3 @@
 # A.DenseNet
-an implementation of Additive DenseNet
+an implementation of Additive DenseNet.
+
